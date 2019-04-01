@@ -22,4 +22,4 @@ And go to [localhost](http://localhost).
 
 ## Bugs, Questions and Contribution
 
-Has a bug found? Please, open a [Issue](https://github.com/gjuniioor/docker-php-sqlsrv/issues), a [Pull Request](https://github.com/gjuniioor/docker-php-sqlsrv/pulls) or contact me: [@gjuniioor](https://github.com/gjuniioor).
+Has a bug found? Please, open a [Issue](https://github.com/ilirhushi/docker-php-sqlsrv/issues), a [Pull Request](https://github.com/ilirhushi/docker-php-sqlsrv/pulls) or contact me: [@ilirhushi](https://github.com/ilirhushi).
